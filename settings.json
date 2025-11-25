@@ -1,0 +1,12 @@
+{
+  "smtp_accounts": [
+    {
+      "name": "nik",
+      "email": "winhitz777@gmail.com",
+      "password": "thdz finr drzg pgir",
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587
+    }
+  ],
+  "proxy_settings": {}
+}
